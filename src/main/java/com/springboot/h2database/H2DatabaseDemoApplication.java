@@ -1,5 +1,5 @@
 package com.springboot.h2database;
-
+//Git Class
 //SG Programming channel
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
