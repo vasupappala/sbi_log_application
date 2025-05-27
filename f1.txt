@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+<<<<<<< Updated upstream
 
 
 
@@ -16,4 +10,13 @@
 //JIRA- 102 task02
 public void m2 (){
 int i =30;
+=======
+public class Demo{
+//JIRA- 101 task01
+public void m1 (){
+int i =30;
+}
+
+int k = 20;
+>>>>>>> Stashed changes
 }
