@@ -1,6 +1,12 @@
 <<<<<<< Updated upstream
 
 
+
+
+
+
+
+
 //JIRA- 102 task02
 public void m2 (){
 int i =30;
@@ -10,7 +16,7 @@ public class Demo{
 public void m1 (){
 int i =30;
 }
-String name = "Java";
+
 int k = 20;
 >>>>>>> Stashed changes
 }
