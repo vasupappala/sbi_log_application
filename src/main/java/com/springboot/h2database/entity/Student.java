@@ -15,7 +15,7 @@ public class Student {
 	private int rollNo;
 	private double marks;
 	private String name;
+	
 
-	private int i = 10;
 	
 }
