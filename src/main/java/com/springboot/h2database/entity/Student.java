@@ -16,4 +16,6 @@ public class Student {
 	private double marks;
 	private String name;
 
+	private int i = 10;
+	
 }
